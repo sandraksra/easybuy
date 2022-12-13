@@ -1,4 +1,5 @@
 # easybuy
+link:easybuy.pythonanywhere.com
 easybuy is an e-commerce project this contain register, login, logout & cart.
 each product include price and description we can add the product to cart by clicking addtocart.
 in our cart it includes prices if we ant more press + button otherwise we can use - button to decrease item
