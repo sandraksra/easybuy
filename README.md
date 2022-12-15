@@ -46,4 +46,8 @@ mk dir static-cr
              -hm
 ![home page_sislaf](https://user-images.githubusercontent.com/119956082/207924869-518badfc-c5d6-4a13-9a56-8838b8597f4d.png)
 ![registration_sislaf](https://user-images.githubusercontent.com/119956082/207925420-6a61d704-bf97-4c9e-a7eb-f97edbcb2ad1.png)
+![login_sislaf](https://user-images.githubusercontent.com/119956082/207925807-78be9944-1530-47ae-a394-8bf0915613cb.png)
+![cart details_sislaf](https://user-images.githubusercontent.com/119956082/207925884-8f31164c-e677-4216-b01c-a499cdabdbbd.png)
+![cart_sislaf](https://user-images.githubusercontent.com/119956082/207925921-61339533-7028-4618-b7e4-d1c082f3d6d5.png)
+
 
