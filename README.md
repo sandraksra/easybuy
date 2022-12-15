@@ -45,3 +45,5 @@ mk dir static-cr
              -pr
              -hm
 ![home page_sislaf](https://user-images.githubusercontent.com/119956082/207924869-518badfc-c5d6-4a13-9a56-8838b8597f4d.png)
+![registration_sislaf](https://user-images.githubusercontent.com/119956082/207925420-6a61d704-bf97-4c9e-a7eb-f97edbcb2ad1.png)
+
