@@ -29,6 +29,7 @@ django-admin startapp cart-
 django-admin startapp  account -
                                -urls
                                -views
+                              
                                
 python maange.py migrate
 
@@ -43,4 +44,4 @@ mk dir template-
 mk dir static-cr
              -pr
              -hm
-
+![home page_sislaf](https://user-images.githubusercontent.com/119956082/207924869-518badfc-c5d6-4a13-9a56-8838b8597f4d.png)
