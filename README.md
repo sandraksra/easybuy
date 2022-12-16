@@ -44,56 +44,7 @@ category includes which type of categories we wants about food.
 proucts can add with description, price ,if its available or not
 
       
-django-admin startproject easybuy-
 
-
-                                 -settings
-                                 -urls
-                          
-django-admin startapp shop-
-
-
-                          -models
-                          -urls
-                          -views
-                          -admin
-django-admin startapp cart-
-
-
-                          -models
-                          -urls
-                          -views
-                          -admin
-                          -contextprocessor
-                          
-                          
-django-admin startapp  account -
-
-
-                               -urls
-                               -views
-                              
-                               
-python maange.py migrate
-
-
-mk dir template-
-
-
-               -base.html
-               -cart.html
-               -index.html
-               -item.html
-               -login.html
-               -register.html
-               -search.html  
-               
-               
-mk dir static-
-
-             -cr
-             -pr
-             -hm
              
  [easybuy link](easybuy.pythonanywhere.com)
              
