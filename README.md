@@ -1,6 +1,13 @@
 # easybuy
 
 
+frendend=Django version=4.1
+
+backend=SQLlite
+
+Bootstrap,CSS
+
+
 •	This is a project with the objective to  develop a 
          basic website where a consumer is provided  
          with a shopping cart application.
