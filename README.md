@@ -61,6 +61,8 @@ django-admin startapp cart-
                           
                           
 django-admin startapp  account -
+
+
                                -urls
                                -views
                               
@@ -69,6 +71,8 @@ python maange.py migrate
 
 
 mk dir template-
+
+
                -base.html
                -cart.html
                -index.html
@@ -78,9 +82,13 @@ mk dir template-
                -search.html  
                
                
-mk dir static-cr
+mk dir static-
+
+             -cr
              -pr
              -hm
+             
+ [easybuy link](easybuy.pythonanywhere.com)
              
              
 ![home page_sislaf](https://user-images.githubusercontent.com/119956082/207924869-518badfc-c5d6-4a13-9a56-8838b8597f4d.png)
